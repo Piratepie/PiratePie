@@ -1,7 +1,7 @@
 ## Hi there [![](https://cdn.discordapp.com/emojis/594184470085500928.gif?size=32 "Hi there")](https://github.com/Piratepie)
 * Computer Science student.
 * Dark Mode everything.
-
+<!--
 ### Languages
 [![](https://img.shields.io/badge/-P%20y%20t%20h%20o%20n-000000?logo=python&logoColor=FFFFFF&style=for-the-badge&logoWidth=18 "Pyton")]((https://github.com/Piratepie))  
 [![](https://img.shields.io/badge/-J%20a%20v%20a-000000?logo=java&logoColor=FFFFFF&style=for-the-badge&logoWidth=48 "Java")]((https://github.com/Piratepie))  
@@ -21,7 +21,7 @@
 
 
 
-<!--
+
 stats
 [![](https://github-readme-stats.vercel.app/api?username=piratepie&count_private=true&show_icons=true&theme=dark)](https://github.com/PiratePie) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=piratepie&layout=compact&theme=dark)](https://github.com/PiratePie)
 -->
