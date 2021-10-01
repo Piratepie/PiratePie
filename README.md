@@ -1,5 +1,5 @@
 ## Hi there [![](https://cdn.discordapp.com/emojis/594184470085500928.gif?size=32 "Hi there")](https://github.com/Piratepie)
-* Computer Science student.
+* Software Development student.
 * Dark Mode everything.
 <!--
 ### Languages
